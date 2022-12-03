@@ -2,10 +2,10 @@
 
 This was the final project for my time series class at UCSB (PSTAT 174)
 
-# Abstract
+## Abstract
 In business, it is very important to know how much goods need to be produced in certain time of the year. In this project, I've implemented a mathematical model (Seasonal ARIMA) to predict monthly beer production using the past data. To be specific, in order to predict 24 months of future Australian beer production, data from 20 past years was used to formulate a mathematical model that considers both the production values from the same time of the year from the past and the production values from the past months. In conclusion, the model provides quite accurate forecast that closely resembles the actual beer production values.
 
-# Introduction
+## Introduction
 
 The goal of this project is to implement time series model with parameters tuned on 20 years worth data from 1956 to 1976 to make a 2 year forecast on the monthly beer production (from 1976~1978). The dataset from Kaggle consists of two columns: date and beer production in million liters.
 
