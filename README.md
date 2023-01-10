@@ -1,6 +1,6 @@
 # Australian Beer Production Forecast
 
-This was the final project for my time series class at UCSB (PSTAT 174)
+This was the final project for time series class at UCSB (PSTAT 174)
 
 ## Abstract
 In business, it is very important to know how much goods need to be produced in certain time of the year. In this project, I've implemented a mathematical model (Seasonal ARIMA) to predict monthly beer production using the past data. To be specific, in order to predict 24 months of future Australian beer production, data from 20 past years was used to formulate a mathematical model that considers both the production values from the same time of the year from the past and the production values from the past months. In conclusion, the model provides quite accurate forecast that closely resembles the actual beer production values.
